@@ -27,5 +27,6 @@ c1 | c2 |  c3
 
 > This is a quote.
 
+----
 
 ![alt text](dispendix_logo.png)
