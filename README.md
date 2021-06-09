@@ -25,6 +25,8 @@ print(s)
 | hello    |wo  | rld|
 c1 | c2 |  c3
 
+----
+
 > This is a quote.
 
 ----
