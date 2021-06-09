@@ -1,3 +1,0 @@
-# Demo Git Repository
-
-test
